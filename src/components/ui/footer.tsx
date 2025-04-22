@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 import { Heart, PawPrint } from "lucide-react";
 
@@ -44,7 +43,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="text-gray-600">info@pawfectmatch.com</li>
               <li className="text-gray-600">(123) 456-7890</li>
-              <li className="text-gray-600">123 Paw Street, Pet City</li>
+              <li className="text-gray-600">2055 Bon Bon St, Irvine, CA 90501</li>
             </ul>
           </div>
         </div>
